@@ -1,0 +1,10 @@
+langchain
+wikipedia
+python-dotenv
+langchain-core
+langchain-community
+pydantic
+langchain-openai
+langchain_huggingface
+duckduckgo-search
+wikipedia

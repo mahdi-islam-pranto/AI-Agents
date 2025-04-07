@@ -1,0 +1,10 @@
+----Output----- 
+ Time: 2025-03-24 16:44:30
+
+Sakib Al Hasan is an international cricketer from Bangladesh,
+widely regarded as one of the best all-rounders in the game. 
+He has been ranked as the number one all-rounder in ODIs and T20s at various points in his career. 
+Born on March 24, 1987, in Magura, Bangladesh, he made his international debut in 2006. 
+Sakib is known for his aggressive batting, effective left-arm spin bowling, and exceptional fielding skills. 
+He has been a integral part of the Bangladesh national team and has also played in various domestic 
+leagues around the world.
