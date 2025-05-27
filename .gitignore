@@ -1,2 +1,3 @@
-# ignore ALL .env files
+# ignore ALL .env .venv files
 *.env
+*.venv
